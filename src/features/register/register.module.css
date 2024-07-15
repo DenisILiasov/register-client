@@ -1,0 +1,36 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 270px;
+}
+
+input{
+    padding: 16px;
+    border-radius: 7px;
+    background: rgb(248, 241, 255);
+    width: 100%;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0%;
+}
+
+button{
+    color: #fff;
+    width: 100%;
+    padding: 12px 80px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background: rgb(152, 90, 206);
+}
+
+span{
+    color: red;
+    font-size: 14px;
+}

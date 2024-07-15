@@ -1,0 +1,21 @@
+.content{
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 90px;
+}
+
+.header{
+    display: flex;
+    gap: 10px;
+    margin:  0 0 15px 0;
+}
+
+.header h2{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+}
